@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/upssf.org/static/css/main.ac42d972.chunk.css",
-    "main.js": "/upssf.org/static/js/main.eaebe1c9.chunk.js",
-    "main.js.map": "/upssf.org/static/js/main.eaebe1c9.chunk.js.map",
-    "runtime-main.js": "/upssf.org/static/js/runtime-main.caedabf4.js",
-    "runtime-main.js.map": "/upssf.org/static/js/runtime-main.caedabf4.js.map",
-    "static/css/2.150d169a.chunk.css": "/upssf.org/static/css/2.150d169a.chunk.css",
-    "static/js/2.8a08ab53.chunk.js": "/upssf.org/static/js/2.8a08ab53.chunk.js",
-    "static/js/2.8a08ab53.chunk.js.map": "/upssf.org/static/js/2.8a08ab53.chunk.js.map",
-    "index.html": "/upssf.org/index.html",
-    "static/css/2.150d169a.chunk.css.map": "/upssf.org/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.ac42d972.chunk.css.map": "/upssf.org/static/css/main.ac42d972.chunk.css.map",
-    "static/js/2.8a08ab53.chunk.js.LICENSE.txt": "/upssf.org/static/js/2.8a08ab53.chunk.js.LICENSE.txt",
-    "static/media/upssf-logo.b51ad180.svg": "/upssf.org/static/media/upssf-logo.b51ad180.svg"
+    "main.css": "./static/css/main.ac42d972.chunk.css",
+    "main.js": "./static/js/main.be3f793a.chunk.js",
+    "main.js.map": "./static/js/main.be3f793a.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.d750a3f8.js",
+    "runtime-main.js.map": "./static/js/runtime-main.d750a3f8.js.map",
+    "static/css/2.150d169a.chunk.css": "./static/css/2.150d169a.chunk.css",
+    "static/js/2.8a08ab53.chunk.js": "./static/js/2.8a08ab53.chunk.js",
+    "static/js/2.8a08ab53.chunk.js.map": "./static/js/2.8a08ab53.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/2.150d169a.chunk.css.map": "./static/css/2.150d169a.chunk.css.map",
+    "static/css/main.ac42d972.chunk.css.map": "./static/css/main.ac42d972.chunk.css.map",
+    "static/js/2.8a08ab53.chunk.js.LICENSE.txt": "./static/js/2.8a08ab53.chunk.js.LICENSE.txt",
+    "static/media/upssf-logo.b51ad180.svg": "./static/media/upssf-logo.b51ad180.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.caedabf4.js",
+    "static/js/runtime-main.d750a3f8.js",
     "static/css/2.150d169a.chunk.css",
     "static/js/2.8a08ab53.chunk.js",
     "static/css/main.ac42d972.chunk.css",
-    "static/js/main.eaebe1c9.chunk.js"
+    "static/js/main.be3f793a.chunk.js"
   ]
 }
