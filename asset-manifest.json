@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/upssf-react-frontend/static/css/main.ac42d972.chunk.css",
+    "main.js": "/upssf-react-frontend/static/js/main.d62b652b.chunk.js",
+    "main.js.map": "/upssf-react-frontend/static/js/main.d62b652b.chunk.js.map",
+    "runtime-main.js": "/upssf-react-frontend/static/js/runtime-main.406470ae.js",
+    "runtime-main.js.map": "/upssf-react-frontend/static/js/runtime-main.406470ae.js.map",
+    "static/css/2.150d169a.chunk.css": "/upssf-react-frontend/static/css/2.150d169a.chunk.css",
+    "static/js/2.8a08ab53.chunk.js": "/upssf-react-frontend/static/js/2.8a08ab53.chunk.js",
+    "static/js/2.8a08ab53.chunk.js.map": "/upssf-react-frontend/static/js/2.8a08ab53.chunk.js.map",
+    "index.html": "/upssf-react-frontend/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/upssf-react-frontend/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.ac42d972.chunk.css.map": "/upssf-react-frontend/static/css/main.ac42d972.chunk.css.map",
+    "static/js/2.8a08ab53.chunk.js.LICENSE.txt": "/upssf-react-frontend/static/js/2.8a08ab53.chunk.js.LICENSE.txt",
+    "static/media/upssf-logo.b51ad180.svg": "/upssf-react-frontend/static/media/upssf-logo.b51ad180.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.406470ae.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.8a08ab53.chunk.js",
+    "static/css/main.ac42d972.chunk.css",
+    "static/js/main.d62b652b.chunk.js"
+  ]
+}
