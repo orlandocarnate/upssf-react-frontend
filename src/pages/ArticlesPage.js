@@ -7,12 +7,12 @@ import axios from 'axios';
 
 export default function Articles() {
     const [articles, setArticles] = useState([])
-    const apiUrl = 'http://api.upssf.org'
+    // const apiUrl = 'http://api.upssf.org'
 
     useEffect(() => {
 
         async function fetchArticles() {
-            const { data } = await axios.get(`${apiUrl}/api/articles/`)
+            const { data } = await axios.get(`/api/articles/`)
             console.log(data)
             setArticles(data)
         }

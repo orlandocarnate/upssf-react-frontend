@@ -8,13 +8,13 @@ import axios from 'axios';
 
 function Officers() {
     const [officers, setOfficers] = useState([])
-    const apiUrl = 'http://api.upssf.org'
+    // const apiUrl = 'http://api.upssf.org'
 
     useEffect(() => {
 
         async function fetchOfficers() {
             
-            const { data } = await axios.get(`${apiUrl}/api/officers/`)
+            const { data } = await axios.get(`/api/officers/`)
             setOfficers(data)
         }
 
