@@ -6,12 +6,14 @@ import axios from 'axios';
 
 export default function Article({ match }) {
     const [article, setArticle] = useState([])
+    const apiUrl = 'http://api.upssf.org'
+
     console.log('MATCH ' + match.params.slug)
 
     useEffect(() => {
 
         async function fetchArticle() {
-            const { data } = await axios.get(`/api/article/${match.params.slug}`)
+            const { data } = await axios.get(`${apiUrl}/api/article/${match.params.slug}`)
             setArticle(data)
         }
 

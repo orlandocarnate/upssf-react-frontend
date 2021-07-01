@@ -7,10 +7,13 @@ import axios from 'axios';
 function OfficerPage({match}) {
     const [officer, setOfficer] = useState([])
 
+    const apiUrl = 'http://api.upssf.org'
+
     useEffect(() => {
 
         async function fetchOfficer() {
-            const { data } = await axios.get(`/api/officer/${match.params.id}`)
+            
+            const { data } = await axios.get(`${apiUrl}/api/officer/${match.params.id}/`)
             setOfficer(data)
         }
 
@@ -23,7 +26,7 @@ function OfficerPage({match}) {
             <Link to='/Officers' className='btn btn-light my-3'><i className="fas fa-arrow-left"></i>Go Back</Link>
             <Row>
                 <Col md={3}>
-                    <Image src={officer.image} alt={officer.name} fluid />
+                    <Image src={apiUrl + '/' + officer.image} alt={officer.name} fluid />
                 </Col>
                 <Col md={9}>
                     <ListGroup variant='flush'>

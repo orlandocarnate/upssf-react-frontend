@@ -14,7 +14,7 @@ class Home extends Component {
                     </p>
                     <p>We are currenlty updating our site!</p>
                     <p>
-                        You can email us at <a className="Home-link" href="mailto:info@upssf.org">info@upssf.org</a>
+                        You can email us at <a className="Home-link" href="mailto:upssfchicago@gmail.com">upssfchicago@gmail.com</a>
                     </p>
                 </header>
             </div>
