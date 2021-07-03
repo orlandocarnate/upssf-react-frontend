@@ -26,9 +26,9 @@ export default function Articles() {
 
     return (
         <div className="mt-3 mb-5">
-            <Row>
                 {articles.map(article =>
                 (
+                    <Row>
                     <div key={article._id} sm={12} md={6} lg={4} xl={3} className="my-4">
                         <h3><Link to={`article/${article.slug}`}>{article.title}</Link></h3>
                         Author: {article.officer_name}<br />
@@ -52,14 +52,14 @@ export default function Articles() {
                             ) :
                             <div className="my-4" dangerouslySetInnerHTML={{ __html: article.content.substring(0, max_length) }}></div>
                         } */}
-                        
+
 
                         <hr />
 
                     </div>
+            </Row>
                 )
                 )}
-            </Row>
 
         </div>
     )

@@ -6,13 +6,18 @@
 </span>
 
 
-<span style=\"text-decoration: underline;\"><strong>GOLD Sponsors
+<span style=\"text-decoration: underline;\">
+    <strong>
+GOLD Sponsors
     </strong></span>
+
 Therapeutic Solutions of Illinois LLC
 
 
-<span style=\"text-decoration: underline;\"><strong>SILVER Sponsors
-    </strong>
+<span style=\"text-decoration: underline;\">
+<strong>
+SILVER Sponsors
+</strong>
 </span>
 Beyond Rehab LLC
 Glamlane
@@ -59,16 +64,16 @@ Grace Yanum-Kenney
 
 
 
-<span style=\"text-decoration: underline;\"><strong>2010 Chicago Marathon Donors:</strong></span>
+2010 Chicago Marathon Donors:
 
-<strong>Abbot
-    Fund
-    Accelera Rehabilitation
-    Services, LLC
-    The Allstate Foundation
-    Goldman Sachs Matching Gift Program
-    Sterling Home Health Care,
-    Inc.</strong>
+<strong>
+Abbot Fund
+Accelera Rehabilitation
+Services, LLC
+The Allstate Foundation
+Goldman Sachs Matching Gift Program
+Sterling Home Health Care, Inc.
+</strong>
 
 Anna Gay Garzon
 Bart & Dominga Tangonan
