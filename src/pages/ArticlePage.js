@@ -15,6 +15,7 @@ export default function Article({ match }) {
         async function fetchArticle() {
             const { data } = await axios.get(`/api/article/${match.params.slug}`)
             setArticle(data)
+            console.log('***** DATA *****', { text: data.content})
         }
 
         fetchArticle()
@@ -32,7 +33,7 @@ export default function Article({ match }) {
                         Published:
                     </em>
                     <br />
-                    <div className="my-4" dangerouslySetInnerHTML={{ __html: article.body }}></div>
+                    <div className="my-4" dangerouslySetInnerHTML={{ __html: article.content }}></div>
 
                     <hr />
 

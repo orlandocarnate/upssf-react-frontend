@@ -42,16 +42,17 @@ export default function Articles() {
                             }).format(new Date(article.publishDate))}
                         </em>
                         <br />
-                        { article.body.length > max_length ?
+                        {/* { article.body.length > max_length ?
                             (
                                 <div>
-                                    <div className="my-4" dangerouslySetInnerHTML={{ __html: article.body.substring(0, max_length) + '...' }}></div>
+                                    <div className="my-4" dangerouslySetInnerHTML={{ __html: article.content.substring(0, max_length) + '...' }}></div>
                                     <Link to={`article/${article.slug}`}>Click here to read more</Link>
 
                                 </div>
                             ) :
-                            <div className="my-4" dangerouslySetInnerHTML={{ __html: article.body.substring(0, max_length) }}></div>
-                        }
+                            <div className="my-4" dangerouslySetInnerHTML={{ __html: article.content.substring(0, max_length) }}></div>
+                        } */}
+                        
 
                         <hr />
 

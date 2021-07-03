@@ -1,57 +1,56 @@
-2012-10-07 16:50:21','2012-10-07 21:50:21','Thanks to everyone who has donated.<br>
-<br>
+2012-10-07 16:50:21','2012-10-07 21:50:21','Thanks to everyone who has donated.
+
 
 <span style=\"text-decoration: underline;\">
     <strong>2011 Chicago Marathon Donors:</strong>
-</span><br>
-<br>
+</span>
 
-<span style=\"text-decoration: underline;\"><strong>GOLD Sponsors<br>
+
+<span style=\"text-decoration: underline;\"><strong>GOLD Sponsors
     </strong></span>
-Therapeutic Solutions of Illinois LLC<br>
-<br>
+Therapeutic Solutions of Illinois LLC
 
-<span style=\"text-decoration: underline;\"><strong>SILVER Sponsors<br>
+
+<span style=\"text-decoration: underline;\"><strong>SILVER Sponsors
     </strong>
 </span>
-Beyond Rehab LLC<br>
+Beyond Rehab LLC
 Glamlane
-Necklaces<br>
-Rehab Potentials Unlimited LLC<br>
-Sterling Home Health Care, Inc.<br>
-John and Etta McKenna<br>
-<br>
+Necklaces
+Rehab Potentials Unlimited LLC
+Sterling Home Health Care, Inc.
+John and Etta McKenna
 
-<span style=\"text-decoration: underline;\"><strong>BRONZE Sponsors<br>
+
+<span style=\"text-decoration: underline;\"><strong>BRONZE Sponsors
     </strong></span>
-Abbott Fund<br>
+Abbott Fund
 Goldman Sachs Matching
-Gift Program<br>
-Noel Gallego<br>
-Reda Villar-Supe<br>
-The Allstate Foundation<br>
-Vivian Valenzuela<br>
-<br>
+Gift Program
+Noel Gallego
+Reda Villar-Supe
+The Allstate Foundation
+Vivian Valenzuela
 
-<strong><span style=\"text-decoration: underline;\">DONORS<br>
+
+<strong><span style=\"text-decoration: underline;\">DONORS
     </span></strong>
-Geremil Alila<br>
-Nilda Antiquena<br>
+Geremil Alila
+Nilda Antiquena
 Maitane
-Arruabarrena-Orbegozo<br>
-Felix Banares<br>
-Greg and Jamie Dzialo<br>
-Jocelyn Evangelista<br>
-Carli Hickey<br>
+Arruabarrena-Orbegozo
+Felix Banares
+Greg and Jamie Dzialo
+Jocelyn Evangelista
+Carli Hickey
 Celeste
-Lledo<br>
+Lledo
 Patricia
-Mayer<br>
-Sara Otto<br>
-Bartolome and Dominga Tangonan<br>
-Jasmine So<br>
-Grace Yanum-Kenney<br>
-<br>
+Mayer
+Sara Otto
+Bartolome and Dominga Tangonan
+Jasmine So
+Grace Yanum-Kenney
 
 
 
@@ -59,74 +58,75 @@ Grace Yanum-Kenney<br>
 
 
 
-<span style=\"text-decoration: underline;\"><strong>2010 Chicago Marathon Donors:</strong></span><br>
-<br>
+
+<span style=\"text-decoration: underline;\"><strong>2010 Chicago Marathon Donors:</strong></span>
+
 <strong>Abbot
-    Fund<br>
+    Fund
     Accelera Rehabilitation
-    Services, LLC<br>
-    The Allstate Foundation<br>
-    Goldman Sachs Matching Gift Program<br>
+    Services, LLC
+    The Allstate Foundation
+    Goldman Sachs Matching Gift Program
     Sterling Home Health Care,
-    Inc.</strong><br>
-<br>
-Anna Gay Garzon<br>
-Bart &amp; Dominga Tangonan<br>
-Bob Nobleza<br>
-Brian Madregal<br>
+    Inc.</strong>
+
+Anna Gay Garzon
+Bart & Dominga Tangonan
+Bob Nobleza
+Brian Madregal
 Carli
-Hickey<br>
+Hickey
 Cathy
-Dagoon<br>
-Christine Jensen<br>
-Cynthia Angeles<br>
-Darnell White<br>
-Dorcas Aggabao<br>
-Enrico Ramos<br>
-Enrique &amp;
+Dagoon
+Christine Jensen
+Cynthia Angeles
+Darnell White
+Dorcas Aggabao
+Enrico Ramos
+Enrique &
 Lourdes
-Perez<br>
-Eugene &amp; Jocelyn Evangelista<br>
-Fanny Centeno<br>
-Ferdinand &amp; Jasmin So<br>
-Francis Martinez<br>
+Perez
+Eugene & Jocelyn Evangelista
+Fanny Centeno
+Ferdinand & Jasmin So
+Francis Martinez
 Grace
-Rausa<br>
+Rausa
 Ivan
-&amp; Sheila Lira<br>
-Jay Valerie R Layson<br>
-Joseph Giannini<br>
-Katrina Escarilla<br>
-Katrina Maranon<br>
+& Sheila Lira
+Jay Valerie R Layson
+Joseph Giannini
+Katrina Escarilla
+Katrina Maranon
 Leila
-Jover<br>
+Jover
 Maitane
-Arruabarrena-Orbegozo<br>
-Mark Jimenez<br>
-May Sidique<br>
-Michelle Encarnacion<br>
-Nathalie Centeno<br>
-Nathan &amp; Juna
-Centeno<br>
-Nelly Weiss<br>
-Nilda Antiquena<br>
-Noel Gallego<br>
-Rachelle Aguilera<br>
-Ragnar Ledesma<br>
+Arruabarrena-Orbegozo
+Mark Jimenez
+May Sidique
+Michelle Encarnacion
+Nathalie Centeno
+Nathan & Juna
+Centeno
+Nelly Weiss
+Nilda Antiquena
+Noel Gallego
+Rachelle Aguilera
+Ragnar Ledesma
 Ramela
-Ledesma<br>
+Ledesma
 Reda Lebita
-Villar-Supe<br>
-Roche Medina<br>
-Roel &amp; Rena Mediana<br>
-Romela Querubin<br>
-Romeo Querubin<br>
-Rudy &amp; Lorenza
-Bautista<br>
+Villar-Supe
+Roche Medina
+Roel & Rena Mediana
+Romela Querubin
+Romeo Querubin
+Rudy & Lorenza
+Bautista
 Ruth
-Lamour<br>
-Teresita Salvador<br>
-<br>
+Lamour
+Teresita Salvador
+
 
 
 
@@ -139,55 +139,55 @@ Teresita Salvador<br>
 
 
 <span style=\"text-decoration: underline;\"><strong>2009 Chicago Marathon
-        Donors:</strong></span><br>
-<br>
-Ragnar Ledesma&amp;lt<br>
-Joy Sian Dellota<br>
-Christy Formacion<br>
+        Donors:</strong></span>
+
+Ragnar Ledesma&lt
+Joy Sian Dellota
+Christy Formacion
 Dan and Angela
-Lyonsmith<br>
-Bob Johnsen<br>
-Cameron Heinze<br>
-Sara Diamond<br>
-Sam and Patricia Diamond<br>
-Amy Bowers<br>
+Lyonsmith
+Bob Johnsen
+Cameron Heinze
+Sara Diamond
+Sam and Patricia Diamond
+Amy Bowers
 Cheryl
-Smith<br>
+Smith
 Andy
-Cooper<br>
-Anand Varghese<br>
-Cindi Mason<br>
-Kristine and Romael Querubin<br>
-Art Recinto and Steve<br>
+Cooper
+Anand Varghese
+Cindi Mason
+Kristine and Romael Querubin
+Art Recinto and Steve
 Jimmy
-Tomasielo<br>
+Tomasielo
 Rey
-Formacion<br>
-Brian Willis<br>
-Christine Jensen<br>
-Al and Anna Sohen<br>
-Mike and Mary Ann Holland<br>
-Larry Krema<br>
+Formacion
+Brian Willis
+Christine Jensen
+Al and Anna Sohen
+Mike and Mary Ann Holland
+Larry Krema
 Pat
-Scanlen<br>
+Scanlen
 Cindy
-Melk<br>
-Maitane Arruabarrena-Orbegozo<br>
-Nilda Antiquena<br>
-Charlene Bielecki<br>
-Celina Ebacuado<br>
+Melk
+Maitane Arruabarrena-Orbegozo
+Nilda Antiquena
+Charlene Bielecki
+Celina Ebacuado
 Katrina
-Escarilla-Montinola<br>
-Carli Hickey<br>
-Stafanie Jalloway<br>
-Sara Otto<br>
-Jasmine So<br>
-Bartolome Tangonan<br>
+Escarilla-Montinola
+Carli Hickey
+Stafanie Jalloway
+Sara Otto
+Jasmine So
+Bartolome Tangonan
 Maria
-Vasquez<br>
+Vasquez
 Natalie
-Tan-Mendoza<br>
-Mary Tuzik<br>
+Tan-Mendoza
+Mary Tuzik
 Constantino \"Jun\" Gulmatico'
 
 
@@ -311,157 +311,157 @@ Christy Formacion-Reinoehl - $100
 Thank You To All The DONORS!
 
 
-<u><strong>2011 Chicago Marathon Donors:</strong></u><br>
-<br>
-<u><strong>GOLD Sponsors<br>
+<u><strong>2011 Chicago Marathon Donors:</strong></u>
+
+<u><strong>GOLD Sponsors
     </strong></u>Therapeutic
-Solutions of Illinois LLC<br>
-<br>
-<u><strong>SILVER Sponsors<br>
-    </strong></u>Beyond Rehab LLC<br>
+Solutions of Illinois LLC
+
+<u><strong>SILVER Sponsors
+    </strong></u>Beyond Rehab LLC
 Glamlane
-Necklaces<br>
-Rehab Potentials Unlimited LLC<br>
-Sterling Home Health Care, Inc.<br>
+Necklaces
+Rehab Potentials Unlimited LLC
+Sterling Home Health Care, Inc.
 John and Etta
-McKenna<br>
-<br>
-<u><strong>BRONZE Sponsors<br>
-    </strong></u>Abbott Fund<br>
-Goldman Sachs Matching Gift Program<br>
+McKenna
+
+<u><strong>BRONZE Sponsors
+    </strong></u>Abbott Fund
+Goldman Sachs Matching Gift Program
 Noel
-Gallego<br>
-Reda Villar-Supe<br>
-The Allstate Foundation<br>
+Gallego
+Reda Villar-Supe
+The Allstate Foundation
 Vivian
-Valenzuela<br>
-<br>
-<strong><u>DONORS<br>
-    </u></strong>Geremil Alila<br>
-Nilda Antiquena<br>
+Valenzuela
+
+<strong><u>DONORS
+    </u></strong>Geremil Alila
+Nilda Antiquena
 Maitane
-Arruabarrena-Orbegozo<br>
-Felix Banares<br>
-Greg and Jamie Dzialo<br>
-Jocelyn Evangelista<br>
-Carli Hickey<br>
+Arruabarrena-Orbegozo
+Felix Banares
+Greg and Jamie Dzialo
+Jocelyn Evangelista
+Carli Hickey
 Celeste
-Lledo<br>
-Patricia Mayer<br>
-Sara Otto<br>
-Bartolome and Dominga Tangonan<br>
-Jasmine So<br>
+Lledo
+Patricia Mayer
+Sara Otto
+Bartolome and Dominga Tangonan
+Jasmine So
 Grace
-Yanum-Kenney<br>
-<br>
-<u><strong>2010 Chicago Marathon Donors:</strong></u><br>
-<br>
-<strong>Abbot Fund<br>
+Yanum-Kenney
+
+<u><strong>2010 Chicago Marathon Donors:</strong></u>
+
+<strong>Abbot Fund
     Accelera
-    Rehabilitation Services, LLC<br>
-    The Allstate Foundation<br>
-    Goldman Sachs Matching Gift Program<br>
+    Rehabilitation Services, LLC
+    The Allstate Foundation
+    Goldman Sachs Matching Gift Program
     Sterling Home
-    Health Care, Inc.</strong><br>
-<br>
-Anna Gay Garzon<br>
-Bart &amp; Dominga Tangonan<br>
-Bob Nobleza<br>
+    Health Care, Inc.</strong>
+
+Anna Gay Garzon
+Bart & Dominga Tangonan
+Bob Nobleza
 Brian
-Madregal<br>
-Carli Hickey<br>
-Cathy Dagoon<br>
-Christine Jensen<br>
-Cynthia Angeles<br>
-Darnell White<br>
+Madregal
+Carli Hickey
+Cathy Dagoon
+Christine Jensen
+Cynthia Angeles
+Darnell White
 Dorcas
-Aggabao<br>
-Enrico Ramos<br>
-Enrique &amp; Lourdes Perez<br>
-Eugene &amp; Jocelyn Evangelista<br>
-Fanny Centeno<br>
+Aggabao
+Enrico Ramos
+Enrique & Lourdes Perez
+Eugene & Jocelyn Evangelista
+Fanny Centeno
 Ferdinand
-&amp; Jasmin So<br>
-Francis Martinez<br>
-Grace Rausa<br>
-Ivan &amp; Sheila Lira<br>
-Jay Valerie R Layson<br>
+& Jasmin So
+Francis Martinez
+Grace Rausa
+Ivan & Sheila Lira
+Jay Valerie R Layson
 Joseph
-Giannini<br>
-Katrina Escarilla<br>
-Katrina Maranon<br>
-Leila Jover<br>
-Maitane Arruabarrena-Orbegozo<br>
-Mark Jimenez<br>
+Giannini
+Katrina Escarilla
+Katrina Maranon
+Leila Jover
+Maitane Arruabarrena-Orbegozo
+Mark Jimenez
 May
-Sidique<br>
-Michelle Encarnacion<br>
-Nathalie Centeno<br>
-Nathan &amp; Juna Centeno<br>
-Nelly Weiss<br>
+Sidique
+Michelle Encarnacion
+Nathalie Centeno
+Nathan & Juna Centeno
+Nelly Weiss
 Nilda
-Antiquena<br>
-Noel Gallego<br>
-Rachelle Aguilera<br>
-Ragnar Ledesma<br>
-Ramela Ledesma<br>
-Reda Lebita Villar-Supe<br>
+Antiquena
+Noel Gallego
+Rachelle Aguilera
+Ragnar Ledesma
+Ramela Ledesma
+Reda Lebita Villar-Supe
 Roche
-Medina<br>
-Roel &amp; Rena Mediana<br>
-Romela Querubin<br>
-Romeo Querubin<br>
-Rudy &amp; Lorenza Bautista<br>
+Medina
+Roel & Rena Mediana
+Romela Querubin
+Romeo Querubin
+Rudy & Lorenza Bautista
 Ruth
-Lamour<br>
-Teresita Salvador<br>
-<br>
-<u><strong>2009 Chicago Marathon Donors:</strong></u><br>
-<br>
+Lamour
+Teresita Salvador
+
+<u><strong>2009 Chicago Marathon Donors:</strong></u>
+
 Ragnar
-Ledesma&amp;lt<br>
-Joy Sian Dellota<br>
-Christy Formacion<br>
-Dan and Angela Lyonsmith<br>
-Bob Johnsen<br>
+Ledesma&lt
+Joy Sian Dellota
+Christy Formacion
+Dan and Angela Lyonsmith
+Bob Johnsen
 Cameron
-Heinze<br>
-Sara Diamond<br>
-Sam and Patricia Diamond<br>
-Amy Bowers<br>
-Cheryl Smith<br>
-Andy Cooper<br>
+Heinze
+Sara Diamond
+Sam and Patricia Diamond
+Amy Bowers
+Cheryl Smith
+Andy Cooper
 Anand
-Varghese<br>
-Cindi Mason<br>
-Kristine and Romael Querubin<br>
-Art Recinto and Steve<br>
-Jimmy Tomasielo<br>
+Varghese
+Cindi Mason
+Kristine and Romael Querubin
+Art Recinto and Steve
+Jimmy Tomasielo
 Rey
-Formacion<br>
-Brian Willis<br>
-Christine Jensen<br>
-Al and Anna Sohen<br>
-Mike and Mary Ann Holland<br>
-Larry Krema<br>
+Formacion
+Brian Willis
+Christine Jensen
+Al and Anna Sohen
+Mike and Mary Ann Holland
+Larry Krema
 Pat
-Scanlen<br>
-Cindy Melk<br>
-Maitane Arruabarrena-Orbegozo<br>
-Nilda Antiquena<br>
-Charlene Bielecki<br>
+Scanlen
+Cindy Melk
+Maitane Arruabarrena-Orbegozo
+Nilda Antiquena
+Charlene Bielecki
 Celina
-Ebacuado<br>
-Katrina Escarilla-Montinola<br>
-Carli Hickey<br>
-Stafanie Jalloway<br>
-Sara Otto<br>
-Jasmine So<br>
+Ebacuado
+Katrina Escarilla-Montinola
+Carli Hickey
+Stafanie Jalloway
+Sara Otto
+Jasmine So
 Bartolome
-Tangonan<br>
-Maria Vasquez<br>
-Natalie Tan-Mendoza<br>
-Mary Tuzik<br>
+Tangonan
+Maria Vasquez
+Natalie Tan-Mendoza
+Mary Tuzik
 Constantino \"Jun\" Gulmatico
 
 
