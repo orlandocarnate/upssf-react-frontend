@@ -3,13 +3,13 @@ import { Container } from "react-bootstrap";
 
 function Donate() {
   return (
-    <Container className="my-5">
+    <Container className="my-5 text-center">
       <h1>Make a donation today!</h1>
 
       <p>
         All proceeds go towards improving the lives of disadvantaged young
         individuals by providing educational assistance such as scholarships,
-        tuition assistance, and stipends, for qualified students
+        tuition assistance, and stipends for qualified students
       </p>
 
       <p>
@@ -34,6 +34,7 @@ function Donate() {
           height="1"
         />
       </form>
+      <p></p>
       <p>Thank you for your donation!</p>
     </Container>
   );
