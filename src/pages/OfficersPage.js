@@ -38,7 +38,10 @@ function Officers() {
                 <Col lg={12}>
                     <p>
                         Board members will be elected from those nominated by voting-members. A candidate should be a voting-member to be eligible. Nomination may be submitted by the candidate or by others on the candidate's behalf via e-mail. However, the nomination should be accepted by the candidate via e-mail or phone. A list containing the names of all candidates nominated will be posted in the SILAK-SILAB Foundation's website and e-mailed to the e-groups. Each voting-member may cast a vote for up to 5 candidates by sending an e-mail to the designated e-mail address below. A voting-member can cast only one vote for each candidate.
-                        </p>
+                    </p>
+                    <p>
+                        Election will be by plurality vote. The five candidates with the highest vote total will be elected to the Board. The first three candidates with the highest vote total will serve a term of two years while the next two candidates will serve a term of one year in accordance with Section 5.02(B) of the U.P. SILAK-SILAB Foundation's By-Laws.
+                    </p>
                 </Col>
             </Row>
         </div>

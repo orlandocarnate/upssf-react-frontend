@@ -17,7 +17,7 @@ function NavBar() {
                             <Nav.Link>Home</Nav.Link>
                         </LinkContainer>
                         <LinkContainer to="/Donate">
-                            <Button>Donate</Button>
+                            <Nav.Link>Donate</Nav.Link>
                         </LinkContainer>
                         <LinkContainer to="/Mission">
                             <Nav.Link>Mission Statement</Nav.Link>
@@ -33,7 +33,7 @@ function NavBar() {
                         </LinkContainer>
                     </Nav>
                     <Nav className="ml-auto">
-                        <Navbar.Text><Icon.Envelope /> upssfchicago@gmail.com</Navbar.Text>
+                        <Nav.Link href="mailto:info@upssf.org"><Icon.Envelope /> info@upssf.org</Nav.Link>
                     </Nav>
                 </Navbar.Collapse>
 
