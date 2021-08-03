@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "./static/css/main.fa7c4c37.chunk.css",
+    "main.css": "./static/css/main.6cfc0b77.chunk.css",
     "main.js": "./static/js/main.7531c729.chunk.js",
     "main.js.map": "./static/js/main.7531c729.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.d750a3f8.js",
@@ -10,7 +10,7 @@
     "static/js/2.a9d5e4bc.chunk.js.map": "./static/js/2.a9d5e4bc.chunk.js.map",
     "index.html": "./index.html",
     "static/css/2.150d169a.chunk.css.map": "./static/css/2.150d169a.chunk.css.map",
-    "static/css/main.fa7c4c37.chunk.css.map": "./static/css/main.fa7c4c37.chunk.css.map",
+    "static/css/main.6cfc0b77.chunk.css.map": "./static/css/main.6cfc0b77.chunk.css.map",
     "static/js/2.a9d5e4bc.chunk.js.LICENSE.txt": "./static/js/2.a9d5e4bc.chunk.js.LICENSE.txt",
     "static/media/upssf-logo.b51ad180.svg": "./static/media/upssf-logo.b51ad180.svg"
   },
@@ -18,7 +18,7 @@
     "static/js/runtime-main.d750a3f8.js",
     "static/css/2.150d169a.chunk.css",
     "static/js/2.a9d5e4bc.chunk.js",
-    "static/css/main.fa7c4c37.chunk.css",
+    "static/css/main.6cfc0b77.chunk.css",
     "static/js/main.7531c729.chunk.js"
   ]
 }
