@@ -14,7 +14,7 @@ function ProfileCard({ officer }) {
             <Card.Body className="pt-0">
                 <Card.Title>{officer.name}</Card.Title>
                 <Card.Subtitle>{officer.position}</Card.Subtitle>
-                <Card.Text>{officer.bio}</Card.Text>
+                {/* <Card.Text>{officer.bio}</Card.Text> */}
             </Card.Body>
         </Card>
 

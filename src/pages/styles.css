@@ -2,17 +2,17 @@
     color: #61dafb;
 }
 
-.scholar-heading {
+/* .scholar-heading {
     margin: auto;
-}
+} */
 
-.scholars-text, .board-members-text {
+/* .scholars-text, .board-members-text {
     font-size: 1.8rem;
     line-height: 2;
-}
+} */
 
 .scholar-img {
-    width: 0 auto;
+    /* width: 0 auto; */
     width: 16rem;
     height: 16rem;
     background-image: linear-gradient(

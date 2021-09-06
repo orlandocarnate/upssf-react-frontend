@@ -6,9 +6,9 @@ import "./styles.css";
 
 function index() {
   return (
-    <Container className="px-5 mx-5 mt-5">
+    <Container className="pt-4">
       <div className="text-center">
-        <h1 className="pb-5">
+        <h1 className="pb-4">
           <School
             color={"#00000"}
             title={"scholar"}
@@ -21,7 +21,6 @@ function index() {
         <div className="scholar-img mx-auto mb-4"></div>
         <h2 className="pb-4">John Roy Daradal</h2>
       </div>
-      <div className="scholars-text">
         <p>
           I'm John Roy Daradal and I’m a fourth year BS Computer Science student
           in the University of the Philippines Visayas. I’m from Bohol where my
@@ -160,7 +159,6 @@ function index() {
           the help that you have extended to me."
         </p>
         <p className="text-end"> &mdash; John Roy Daradal</p>
-      </div>
     </Container>
   );
 }
