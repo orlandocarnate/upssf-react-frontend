@@ -5,7 +5,7 @@ import ImgFlag from '../images/mission-flag.jpg'
 import ImgOblationStatues from '../images/mission-oblation-statues.jpg'
 import ImgUpVisayas from '../images/mission-up-visayas.jpg'
 import ImgClassroom from '../images/mission-classroom.jpg'
-import "./mission.css";
+// import "./mission.css";
 function Mission() {
   return (
     <div id="mission">
