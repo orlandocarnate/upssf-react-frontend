@@ -30,7 +30,7 @@ export default function Articles() {
                 (
                     <Row>
                     <div key={article._id} sm={12} md={6} lg={4} xl={3} className="my-4">
-                        <h3><Link to={`article/${article.slug}`}>{article.title}</Link></h3>
+                        <h3><Link to={`/article/${article.slug}`}>{article.title}</Link></h3>
                         Author: {article.officer_name}<br />
                         <em>
                             Published: {new Intl.DateTimeFormat(
@@ -42,17 +42,6 @@ export default function Articles() {
                             }).format(new Date(article.publishDate))}
                         </em>
                         <br />
-                        {/* { article.body.length > max_length ?
-                            (
-                                <div>
-                                    <div className="my-4" dangerouslySetInnerHTML={{ __html: article.content.substring(0, max_length) + '...' }}></div>
-                                    <Link to={`article/${article.slug}`}>Click here to read more</Link>
-
-                                </div>
-                            ) :
-                            <div className="my-4" dangerouslySetInnerHTML={{ __html: article.content.substring(0, max_length) }}></div>
-                        } */}
-
 
                         <hr />
 
