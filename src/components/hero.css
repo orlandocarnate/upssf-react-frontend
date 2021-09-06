@@ -1,9 +1,6 @@
 .hero {
   height: 100vh;
-  background-image: linear-gradient(
-      rgba(34, 34, 34, 0.7),
-      rgba(8, 8, 8, 0.8)
-    ),
+  background-image: linear-gradient(rgba(34, 34, 34, 0.7), rgba(8, 8, 8, 0.8)),
     url("../images/visayascinematicvintage.jpg");
   background-position: center top;
   background-size: cover;
@@ -11,22 +8,25 @@
 }
 
 .hero-container {
-    width: 800px;
-    margin: 0 auto;
-    font-size: calc(10px + 2vmin);
-  }
-  
-  .hero-btn-donate, .hero-btn-donate:visited {
-    font-size: 1.6rem;
-    background-color: red;
-    border: none;
-  }
-  
-  .hero-btn-donate:hover {
-    background-color: rgb(198, 0, 0);
-  }
-  
-  .hero-text {
-    font-size: 1.3rem;
-    line-height: 2;
+  /* max-width: 800px; */
+  /* margin: 0 auto; */
+  /* font-size: calc(10px + 2vmin); */
 }
+
+.hero-btn-donate,
+.hero-btn-donate:visited {
+  /* font-size: 1.6rem; */
+  background-color: red;
+  border: none;
+}
+
+.hero-btn-donate:hover {
+  background-color: rgb(198, 0, 0);
+}
+
+.hero-text {
+  /* font-size: 1.3rem; */
+  /* line-height: 2; */
+}
+
+

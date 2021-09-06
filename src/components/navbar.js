@@ -7,7 +7,7 @@ import "./navbar.css";
 
 function NavBar() {
   return (
-    <Navbar bg="dark" variant="dark" expand="lg" className="py-3 sticky-top">
+    <Navbar bg="dark" variant="dark" expand="lg" className="py-3">
       <LinkContainer to="/">
         <Navbar.Brand>U.P. Silak Silab Foundation</Navbar.Brand>
       </LinkContainer>

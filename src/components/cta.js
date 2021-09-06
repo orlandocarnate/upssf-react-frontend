@@ -5,8 +5,8 @@ import "./cta.css"
 
 function CallToAction() {
   return (
-    <div className="cta" id="donate">
-      <Container className="">
+    <div className="cta " id="donate">
+      <Container className=" py-4 my-5 px-5">
         <h1>
           <LogoPaypal
             color={"#ff0000"}

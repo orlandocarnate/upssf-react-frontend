@@ -8,47 +8,49 @@ import ImgClassroom from '../images/mission-classroom.jpg'
 import "./mission.css";
 function Mission() {
   return (
-    <Container className="mission" id="mission">
-      <Row>
-        <Col>
-          <h1>
-            <Rocket
-              color={"#ff0000"}
-              height="2.4rem"
-              width="2.4rem"
-              className="pr-3"
-            />
-            Our Mission
-          </h1>
-          <div className=" pt-5 mission-text">
-            <p>
-              The Foundation’s mission is to liberate poor but deserving
-              students from poverty through access to education. It believes in
-              the value of education and is dedicated to improving the lives of
-              disadvantaged young individuals by providing educational
-              assistance such as scholarships, tuition assistance, and stipends,
-              for qualified students.
-            </p>
-          </div>
-        </Col>
-        <Col>
-          <Row lg={2}>
-            <Col>
-              <Image width="240px" height="240px" src={ImgFlag} />
-            </Col>
-            <Col>
-              <Image width="240px" height="240px" src={ImgOblationStatues} />
-            </Col>
-            <Col>
-              <Image width="240px" height="240px" src={ImgUpVisayas} />
-            </Col>
-            <Col>
-              <Image width="240px" height="240px" src={ImgClassroom} />
-            </Col>
-          </Row>
-        </Col>
-      </Row>
-    </Container>
+    <div id="mission">
+      <Container className="mt-4 px-5 ">
+        <Row xs={1} sm={1} md={2} lg={2}>
+          <Col>
+            <h2>
+              <Rocket
+                color={"#ff0000"}
+                height="2rem"
+                width="2rem"
+                className="pr-3"
+              />
+              Our Mission
+            </h2>
+            <div className="pt-5 pt-md-4">
+              <p>
+                The Foundation’s mission is to liberate poor but deserving
+                students from poverty through access to education. It believes
+                in the value of education and is dedicated to improving the
+                lives of disadvantaged young individuals by providing
+                educational assistance such as scholarships, tuition assistance,
+                and stipends, for qualified students.
+              </p>
+            </div>
+          </Col>
+          <Col>
+            <Row>
+              <Col xs={3} sm={6} med={6} lg={6}>
+                <Image fluid src={ImgFlag} />
+              </Col>
+              <Col xs={3} sm={6} med={6} lg={6}>
+                <Image fluid src={ImgOblationStatues} />
+              </Col>
+              <Col xs={3} sm={6} med={6} lg={6}>
+                <Image fluid src={ImgUpVisayas} />
+              </Col>
+              <Col xs={3} sm={6} med={6} lg={6}>
+                <Image fluid src={ImgClassroom} />
+              </Col>
+            </Row>
+          </Col>
+        </Row>
+      </Container>
+    </div>
   );
 }
 
