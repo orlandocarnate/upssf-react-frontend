@@ -17,6 +17,10 @@ A React JS frontend site for the non-profit organization [The University of the 
 
 ## Deployment
 Used GH-PAGES to deploy build
+* `npm run build` creates static files in `/build` folder
+* `npm run deploy` pushes static files to `gh-pages` branch
+* SSH to Raspberry Pi, cd to front-end folder
+* `git pull gh-pages` to pull gh-pages branch
 
 ### Troubleshooting
 https://create-react-app.dev/docs/deployment/
