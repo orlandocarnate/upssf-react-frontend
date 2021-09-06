@@ -20,7 +20,7 @@ import Completed from "./pages/Completed";
 
 function App() {
   return (
-    <Router basename="/index.html">
+    <Router basename="/">
       <div>
         <NavBar />
 
