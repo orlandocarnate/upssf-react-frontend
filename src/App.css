@@ -1,29 +1,15 @@
-.App {
-  text-align: center;
-}
-
-.App-logo {
+.upssf-logo {
   /* width: 100%;
   height: 300%; */
   /* animation: App-logo-spin infinite 20s linear; */
-  height: 30vmin;
+  height: 16rem;
   pointer-events: none;
 }
 
-.App-header {
-  /* background-color: #282c34; */
-  /* min-height: 100vh; */
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(20px + 2vmin);
-  color: white;
-}
 
-.App-link {
+/* .App-link {
   color: #61dafb;
-}
+} */
 
 @keyframes App-logo-spin {
   from {

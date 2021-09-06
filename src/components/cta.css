@@ -1,0 +1,12 @@
+.cta {
+    height: 100vh;
+    background-color: #fff4e6;
+    margin-top: 6rem;
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+    font-size: 1.6rem;
+}
+
+.paypal-logo {
+    width: 12rem;
+}

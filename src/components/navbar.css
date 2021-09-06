@@ -1,0 +1,4 @@
+.nav-link:link,
+.nav-link:visited {
+    transition: all .4s;
+}

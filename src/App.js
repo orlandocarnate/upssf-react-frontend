@@ -6,7 +6,9 @@ import NavBar from "./components/navbar";
 import Footer from "./components/footer";
 // import { IntlProvider, addLocaleData } from "react-intl";
 import HomePage from "./pages/HomePage.js";
-import Mission from "./pages/Mission.js";
+import Hero from "./components/hero.js";
+import Mission from "./components/mission.js";
+import CallToAction from './components/cta.js';
 import OfficersPage from "./pages/OfficersPage.js";
 import OfficerPage from "./pages/OfficerPage.js";
 import Scholars from "./pages/Scholars.js";
@@ -14,7 +16,7 @@ import Articles from "./pages/ArticlesPage";
 import Article from "./pages/ArticlePage";
 import Cancel from "./pages/Cancel";
 import Completed from "./pages/Completed";
-import Donate from "./pages/Donate";
+// import Donate from "./pages/Donate";
 
 function App() {
   return (
@@ -22,12 +24,17 @@ function App() {
       <div>
         <NavBar />
 
+        {/* <Hero />
+        <Mission />
+        <CallToAction /> */}
+
         <Switch>
+          {/* <Route exact path="/" /> */}
           <Route exact path="/" component={HomePage} />
           {/* <Route exact path="/Home" component={Home} /> */}
           <Container>
-            <Route exact path="/Mission" component={Mission} />
-            <Route exact path="/Donate" component={Donate} />
+            {/* <Route exact path="/Mission" component={Mission} /> */}
+            {/* <Route exact path="/Donate" component={Donate} /> */}
             <Route exact path="/Officers" component={OfficersPage} />
             <Route exact path="/Officer/:id?" component={OfficerPage} />
             <Route exact path="/Scholars" component={Scholars} />
