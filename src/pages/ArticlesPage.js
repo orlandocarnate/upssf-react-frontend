@@ -1,8 +1,7 @@
 import React, { useState, useEffect } from 'react'
 import ProfileCard from '../components/ProfileCard.js';
-import { Row, Container } from 'react-bootstrap'
+import { Row, Container, Spinner } from 'react-bootstrap'
 import { Link } from 'react-router-dom'
-import { Sad } from "react-ionicons"
 
 import axios from 'axios';
 
@@ -61,16 +60,14 @@ export default function Articles() {
     );
     } else {
         return (
-            <Container className="py-5 my-5 text-center">
-                <Sad
-                color={'#00000'} 
-                height="150px"
-                width="150px"
-                className="d-block pb-5"
-                />
-                <h2>There's a problem retrieving the articles. Please try again later.</h2>
-            </Container>
-        )
+          <Container className="py-5 my-5 text-center">
+            <Spinner animation="border" role="status">
+              <span className="visually-hidden"></span>
+            </Spinner>
+            <br />
+            Loading...
+          </Container>
+        );
     }
 
 

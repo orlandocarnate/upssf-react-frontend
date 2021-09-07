@@ -2,8 +2,7 @@ import React, { useState, useEffect } from 'react'
 import './styles.css';
 // import officers from './officers.json';
 import ProfileCard from '../components/ProfileCard.js';
-import { Row, Col, Container } from 'react-bootstrap'
-import { Sad } from "react-ionicons"
+import { Row, Col, Container, Spinner } from 'react-bootstrap'
 
 import axios from 'axios';
 
@@ -74,16 +73,11 @@ function Officers() {
     } else {
               return (
                 <Container className="py-5 my-5 text-center">
-                  <Sad
-                    color={"#00000"}
-                    height="150px"
-                    width="150px"
-                    className="d-block pb-5"
-                  />
-                  <h2>
-                    There's a problem retrieving data. Please try again
-                    later.
-                  </h2>
+                  <Spinner animation="border" role="status">
+                    <span className="visually-hidden"></span>
+                  </Spinner>
+                  <br />
+                  Loading...
                 </Container>
               );
     }
