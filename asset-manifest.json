@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "./static/css/main.14b9e1c0.chunk.css",
-    "main.js": "./static/js/main.5053ecd4.chunk.js",
-    "main.js.map": "./static/js/main.5053ecd4.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.14371b7d.js",
-    "runtime-main.js.map": "./static/js/runtime-main.14371b7d.js.map",
-    "static/css/2.27dd871e.chunk.css": "./static/css/2.27dd871e.chunk.css",
-    "static/js/2.91dcce53.chunk.js": "./static/js/2.91dcce53.chunk.js",
-    "static/js/2.91dcce53.chunk.js.map": "./static/js/2.91dcce53.chunk.js.map",
-    "index.html": "./index.html",
-    "static/css/2.27dd871e.chunk.css.map": "./static/css/2.27dd871e.chunk.css.map",
-    "static/css/main.14b9e1c0.chunk.css.map": "./static/css/main.14b9e1c0.chunk.css.map",
-    "static/js/2.91dcce53.chunk.js.LICENSE.txt": "./static/js/2.91dcce53.chunk.js.LICENSE.txt",
-    "static/media/mission-classroom.260b8a53.jpg": "./static/media/mission-classroom.260b8a53.jpg",
-    "static/media/mission-flag.0eba1b7c.jpg": "./static/media/mission-flag.0eba1b7c.jpg",
-    "static/media/mission-oblation-statues.865430de.jpg": "./static/media/mission-oblation-statues.865430de.jpg",
-    "static/media/mission-up-visayas.9a2dc909.jpg": "./static/media/mission-up-visayas.9a2dc909.jpg",
-    "static/media/styles.css": "./static/media/scholar-daradal.2eaba279.jpg",
-    "static/media/upssf-logo.b51ad180.svg": "./static/media/upssf-logo.b51ad180.svg",
-    "static/media/hero.css": "./static/media/visayascinematicvintage.abf0cf88.jpg"
+    "main.css": "/static/css/main.d1b7f9ff.chunk.css",
+    "main.js": "/static/js/main.ea3ef178.chunk.js",
+    "main.js.map": "/static/js/main.ea3ef178.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4eab1d6a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4eab1d6a.js.map",
+    "static/css/2.27dd871e.chunk.css": "/static/css/2.27dd871e.chunk.css",
+    "static/js/2.237125d1.chunk.js": "/static/js/2.237125d1.chunk.js",
+    "static/js/2.237125d1.chunk.js.map": "/static/js/2.237125d1.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.27dd871e.chunk.css.map": "/static/css/2.27dd871e.chunk.css.map",
+    "static/css/main.d1b7f9ff.chunk.css.map": "/static/css/main.d1b7f9ff.chunk.css.map",
+    "static/js/2.237125d1.chunk.js.LICENSE.txt": "/static/js/2.237125d1.chunk.js.LICENSE.txt",
+    "static/media/mission-classroom.260b8a53.jpg": "/static/media/mission-classroom.260b8a53.jpg",
+    "static/media/mission-flag.0eba1b7c.jpg": "/static/media/mission-flag.0eba1b7c.jpg",
+    "static/media/mission-oblation-statues.865430de.jpg": "/static/media/mission-oblation-statues.865430de.jpg",
+    "static/media/mission-up-visayas.9a2dc909.jpg": "/static/media/mission-up-visayas.9a2dc909.jpg",
+    "static/media/styles.css": "/static/media/scholar-daradal.2eaba279.jpg",
+    "static/media/upssf-logo.b51ad180.svg": "/static/media/upssf-logo.b51ad180.svg",
+    "static/media/hero.css": "/static/media/visayascinematicvintage.abf0cf88.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.14371b7d.js",
+    "static/js/runtime-main.4eab1d6a.js",
     "static/css/2.27dd871e.chunk.css",
-    "static/js/2.91dcce53.chunk.js",
-    "static/css/main.14b9e1c0.chunk.css",
-    "static/js/main.5053ecd4.chunk.js"
+    "static/js/2.237125d1.chunk.js",
+    "static/css/main.d1b7f9ff.chunk.css",
+    "static/js/main.ea3ef178.chunk.js"
   ]
 }
