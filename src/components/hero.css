@@ -1,5 +1,5 @@
 .hero {
-  height: 100vh;
+  /* min-height: 100vh; */
   background-image: linear-gradient(rgba(34, 34, 34, 0.7), rgba(8, 8, 8, 0.8)),
     url("../images/visayascinematicvintage.jpg");
   background-position: center top;

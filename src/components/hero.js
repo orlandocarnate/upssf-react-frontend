@@ -7,7 +7,7 @@ import "./hero.css";
 
 function Hero() {
   return (
-    <section className="hero">
+    <section className="hero mb-5">
       <div className="pt-5 px-5 pt-md-3">
         <h2 className="text-center">Fighting Poverty Through Education</h2>
         <div className="pt-4">
@@ -24,7 +24,7 @@ function Hero() {
 
         <div className="text-center">
           <HashLink smooth to="/#donate">
-            <Button className="hero-btn-donate py-2 px-4" variant="primary">
+            <Button className="hero-btn-donate py-2 px-4 mb-4" variant="primary">
               Make a Donation Today!
             </Button>
           </HashLink>
