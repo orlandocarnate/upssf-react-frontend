@@ -34,16 +34,16 @@ function Mission() {
           </Col>
           <Col>
             <Row>
-              <Col xs={3} sm={6} med={6} lg={6}>
+              <Col xs={6} sm={6} med={6} lg={6} className='p-0'>
                 <Image fluid src={ImgFlag} />
               </Col>
-              <Col xs={3} sm={6} med={6} lg={6}>
+              <Col xs={6} sm={6} med={6} lg={6} className='p-0'>
                 <Image fluid src={ImgOblationStatues} />
               </Col>
-              <Col xs={3} sm={6} med={6} lg={6}>
+              <Col xs={6} sm={6} med={6} lg={6} className='p-0'>
                 <Image fluid src={ImgUpVisayas} />
               </Col>
-              <Col xs={3} sm={6} med={6} lg={6}>
+              <Col xs={6} sm={6} med={6} lg={6} className='p-0'>
                 <Image fluid src={ImgClassroom} />
               </Col>
             </Row>
